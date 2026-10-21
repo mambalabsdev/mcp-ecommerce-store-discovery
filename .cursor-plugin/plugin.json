@@ -1,0 +1,31 @@
+{
+  "name": "mcp-ecommerce-store-discovery",
+  "displayName": "Ecommerce Store Discovery",
+  "version": "1.0.0",
+  "description": "MCP server for Ecommerce Store Discovery. Shopify, WooCommerce, or BigCommerce stores that sell a product, each confirmed on its own homepage, with platform evidence, payments, product count, Tranco rank, and contact links. Runs on Apify. Clay-ready output.",
+  "author": {
+    "name": "Mamba Labs",
+    "email": "labs@mambamindsetgrowth.com"
+  },
+  "homepage": "https://mambabuilt.com",
+  "repository": "https://github.com/mambalabsdev/mcp-ecommerce-store-discovery",
+  "license": "MIT",
+  "category": "productivity",
+  "tags": [
+    "ecommerce",
+    "shopify",
+    "store-leads",
+    "apify",
+    "clay"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "ecommerce",
+    "shopify",
+    "store-leads",
+    "apify",
+    "clay"
+  ],
+  "mcpServers": ".mcp.json"
+}

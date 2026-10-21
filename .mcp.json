@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-ecommerce-store-discovery": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-ecommerce-store-discovery"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}
