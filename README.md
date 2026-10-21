@@ -99,7 +99,7 @@ Pay per event on Apify, billed to your Apify account. Prices in USD.
 
 | Event | Free plan | Bronze | Silver | Gold |
 |---|---|---|---|---|
-| `store-found`, one confirmed store | $0.005 | $0.00475 | $0.0045 | $0.00425 |
+| `store-found`, one confirmed store | $0.0055 | $0.005225 | $0.00495 | $0.004675 |
 | `search-page`, one Google result page read | $0.019 | $0.01805 | $0.0171 | $0.01615 |
 | `apify-actor-start`, per run start | $0.002 | $0.002 | $0.002 | $0.002 |
 
